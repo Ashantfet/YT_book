@@ -11,7 +11,7 @@ A lightweight and efficient Chrome extension designed to help users **bookmark s
    - Clone the repository to your local machine and then extract it:
 
    ```bash
-   git clone https://github.com/sandeepshakya2019/ISE_YT_BOOK.git
+   git clone https://github.com/Ashantfet/YT_book.git
    ```
 
    - Go to the Chrome Extensions page (`chrome://extensions/`).
